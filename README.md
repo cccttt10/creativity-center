@@ -10,7 +10,7 @@
 
 
 
-![long](./asset/long.jpg)
+![long](./asset/long-squashed.jpg)
 
   
 
