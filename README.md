@@ -31,7 +31,7 @@
 
 ### 免费试听课
 
-- 请<u>按照顺序</u>完成课前准备，如有疑问，请尽量在<u>课前</u>问我。
+- 请<ins>按照顺序</ins>完成课前准备，如有疑问，请尽量在<ins>课前</ins>问我。
 
 - 知道如何打开 Terminal
 
@@ -55,7 +55,7 @@
 
 - 下载以下 VS Code 插件（[如何下载插件](https://code.visualstudio.com/docs/editor/extension-marketplace)）
 
-  - 实在不会下载也没事，上课会讲。<u>划线插件</u>是必备插件，建议课前下载好。
+  - 实在不会下载也没事，上课会讲。<ins>划线插件</ins>是必备插件，建议课前下载好。
 
   - Auto Close Tag
 
@@ -67,19 +67,19 @@
 
   - EditorConfig for VS Code
 
-  - <u>ESLint</u>
+  - <ins>ESLint</ins>
 
   - Highlight Matching Tag
 
   - HTML Boilerplate
 
-  - <u>HTML CSS Support</u>
+  - <ins>HTML CSS Support</ins>
 
   - Image Preview
 
-  - <u>IntelliSense for CSS class names in HTML</u>
+  - <ins>IntelliSense for CSS class names in HTML</ins>
 
-  - <u>Live Server</u>
+  - <ins>Live Server</ins>
 
   - Material Icon Theme
 
@@ -89,9 +89,9 @@
 
   - Path Intellisense
 
-  - <u>Prettier - Code formatter</u>
+  - <ins>Prettier - Code formatter</ins>
 
-  - <u>Prettier Now</u>
+  - <ins>Prettier Now</ins>
 
 ## FAQ
 
@@ -107,7 +107,7 @@
 >
 > 然后，同学们得到的帮助和服务，远不仅仅上课的几十个小时。课后做拓展作业时，如有不理解的地方，我会随时为大家解惑。我还会为大家的代码提供 code review，确保大家代码质量，模拟公司中工作的场景。
 >
-> 甚至完成课程后，如果需要根据 project 撰写简历或者准备面试，我也会尽可能提供帮助，为大家提供职业上的建议。我现在在 [Citi 花旗](https://en.wikipedia.org/wiki/Citibank) 工作，公司每年十月份会招聘实习生和应届生，<u>我可以为大家提供内推</u>。其他公司的内推也可以，我的朋友/同事遍布于各大知名公司。
+> 甚至完成课程后，如果需要根据 project 撰写简历或者准备面试，我也会尽可能提供帮助，为大家提供职业上的建议。我现在在 [Citi 花旗](https://en.wikipedia.org/wiki/Citibank) 工作，公司每年十月份会招聘实习生和应届生，<ins>我可以为大家提供内推</ins>。其他公司的内推也可以，我的朋友/同事遍布于各大知名公司。
 
 - 我没有任何编程经验，我能跟上课程的节奏吗？
 
