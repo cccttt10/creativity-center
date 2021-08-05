@@ -79,7 +79,7 @@
 - 根据试听课录播，完成 MVC Todo List 的 HTML / CSS 部分。代码 push 到自己 fork 的 GitHub 仓库。
   - HTML代码：请理解每个 HTML tag 的作用，理解 attribute 的 作用，理解 class 和 id 的区别。
   - CSS 代码：试听课现场写的部分，大致明白就行。剩下没有现场写的部分，请大概浏览一遍，如遇到不明白/好奇的地方，请 Google 相关的 CSS 知识，MDN 和 W3Schools 都是比较好的 CSS 资料，可在搜索关键词后加上 MDN 或者 W3Schools。CSS 不必太纠结细节，查了资料不能立刻看懂的，暂时先不管。
-  - 如需对照答案，可以 clone MVC Todo List 的[代码仓库](https://github.com/chuntonggao/todo-list)，通过`git branch vanilla-js-solution`命令查看答案代码。`master`分支上是初始代码。
+  - 如需对照答案，可以 clone MVC Todo List 的[代码仓库](https://github.com/chuntonggao/todo-list)，通过`git checkout vanilla-js-solution`命令查看答案代码。`master`分支上是初始代码。
 - 复习 git 相关操作，可参考[我的教程](https://chuntonggao.github.io/super-simple-git/)。
 - 回顾 Model-View-Controller 概念，阅读`script.js`文件中的所有 comments 和 method signatures，理解 event listener 的概念。
   - 可以 clone MVC Todo List 的[代码仓库](https://github.com/chuntonggao/todo-list) 后，在`master`分支阅读，也可以在 [GitHub 网页](https://github.com/chuntonggao/todo-list/blob/master/script.js)上阅读。
