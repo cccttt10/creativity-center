@@ -19,13 +19,12 @@
 | 课次       | 温哥华时间      | 北京时间        | 内容简介                                                     |
 | ---------- | --------------- | --------------- | ------------------------------------------------------------ |
 | 免费试听课 | 8.1 6PM - 10PM  | 8.2 9AM - 1PM   | - 软件工程是什么 <br/>- 为什么学前端 <br/>- 环境配置 <br/>- 3个 projects 效果预览 <br/>- Git 版本控制 <br/>- HTML/CSS 入门 <br/>- JavaScript/Typescript 入门 <br/>- Bonus project: MVC Todo List <br/>- 代码风格/最佳实践 |
-| 基础课1    | 8.8 6PM - 10PM  | 8.9 9AM - 1PM   | - HTML/CSS/JavaScript 进阶 <br/>- Project 1: Adidas 商品展示页 <br/>- Project 2: 星球大战商品展示页 |
-| 基础课2    | 8.15 6PM - 10PM | 8.16 9AM - 1PM  | - React 入门 <br/>- Bonus project: React Todo List <br/>- TypeScript 进阶 <br/>- 工具链：包管理/编译/构建/持续集成<br/>- Bonus Project: React TypeScript Todo List<br/>- Project 3.0: 搭建环境+基础架构 |
+| 基础课1    | 8.8 6PM - 10PM  | 8.9 9AM - 1PM   | - HTML/CSS/JavaScript 进阶 <br/>- MVC Todo List: 完成 JavaScript <br/>- Project 1: Adidas 商品展示页 <br/>- MVC Todo List: 加入 TypeScript |
+| 基础课2    | 8.15 6PM - 10PM | 8.16 9AM - 1PM  | - Project 2: 星球大战商品展示页<br/>- React 入门 <br/>- Bonus Project: React TypeScript Todo List<br/>- 工具链：包管理/编译/构建/持续集成<br/>- Project 3.0: 搭建环境+基础架构 |
 | 进阶课1    | 8.22 6PM - 10PM | 8.23 9AM - 1PM  | - React 进阶（包含 hooks）<br/>- Project 3.0: 公共组件+工具函数<br/>- Project 3.1: macOS 桌面+任务栏 <br/>- CSS 衍生语言: SCSS |
 | 进阶课2    | 8.29 6PM - 10PM | 8.30 9AM - 1PM  | - React 进阶（2020/2021 新特性）<br/>- Project 3.2: macOS 计算器 <br/>- 模块化编程 |
-| 进阶课3    | 9.5 6PM - 10PM  | 9.6 9AM - 1PM   | - 浏览器高级特性: Canvas 和事件监听<br/>- Project 3.3: macOS 画板 |
-| 总课仪式   | 9.12 6PM - 8PM  | 9.13 9AM - 11AM | - 持续学习: 后端/算法/数据结构/前端其他框架<br/>- 如何把 project 运用到简历/面试中<br/>- 优秀作品展示 |
-|            |                 |                 |                                                              |
+| 进阶课3    | 9.12 6PM - 10PM | 9.13 9AM - 1PM  | - 浏览器高级特性: Canvas 和事件监听<br/>- Project 3.3: macOS 画板 |
+| 结课仪式   | 9.19 6PM - 8PM  | 9.20 9AM - 11AM | - 持续学习: 后端/算法/数据结构/前端其他框架<br/>- 如何把 project 运用到简历/面试中<br/>- 优秀作品展示 |
 
 ## 课前准备
 
@@ -56,42 +55,39 @@
 - 下载以下 VS Code 插件（[如何下载插件](https://code.visualstudio.com/docs/editor/extension-marketplace)）
 
   - 实在不会下载也没事，上课会讲。<ins>划线插件</ins>是必备插件，建议课前下载好。
-
-  - Auto Close Tag
-
+- Auto Close Tag
   - Auto Rename Tag
-
-  - Bracket Pair Colorizer
-
+- Bracket Pair Colorizer
   - Color Highlighter
-
-  - EditorConfig for VS Code
-
+- EditorConfig for VS Code
   - <ins>ESLint</ins>
-
-  - Highlight Matching Tag
-
+- Highlight Matching Tag
   - HTML Boilerplate
-
-  - <ins>HTML CSS Support</ins>
-
+- <ins>HTML CSS Support</ins>
   - Image Preview
-
-  - <ins>IntelliSense for CSS class names in HTML</ins>
-
+- <ins>IntelliSense for CSS class names in HTML</ins>
   - <ins>Live Server</ins>
-
-  - Material Icon Theme
-
+- Material Icon Theme
   - npm
-
-  - npm Intellisense
-
+- npm Intellisense
   - Path  
-
-  - <ins>Prettier - Code formatter</ins>
-
+- <ins>Prettier - Code formatter</ins>
   - <ins>Prettier Now</ins>
+
+### 基础课1
+
+- 根据试听课录播，完成 MVC Todo List 的 HTML / CSS 部分。代码 push 到自己 fork 的 GitHub 仓库。
+  - HTML代码：请理解每个 HTML tag 的作用，理解 attribute 的 作用，理解 class 和 id 的区别。
+  - CSS 代码：试听课现场写的部分，大致明白就行。剩下没有现场写的部分，请大概浏览一遍，如遇到不明白/好奇的地方，请 Google 相关的 CSS 知识，MDN 和 W3Schools 都是比较好的 CSS 资料，可在搜索关键词后加上 MDN 或者 W3Schools。CSS 不必太纠结细节，查了资料不能立刻看懂的，暂时先不管。
+  - 如需对照答案，可以 clone MVC Todo List 的[代码仓库](https://github.com/chuntonggao/todo-list)，通过`git branch vanilla-js-solution`命令查看答案代码。`master`分支上是初始代码。
+- 复习 git 相关操作，可参考[我的教程](https://chuntonggao.github.io/super-simple-git/)。
+- 回顾 Model-View-Controller 概念，阅读`script.js`文件中的所有 comments 和 method signatures，理解 event listener 的概念。
+  - 可以 clone MVC Todo List 的[代码仓库](https://github.com/chuntonggao/todo-list) 后，在`master`分支阅读，也可以在 [GitHub 网页](https://github.com/chuntonggao/todo-list/blob/master/script.js)上阅读。
+- 请在 [GitHub Issue](https://github.com/chuntonggao/creativity-center/issues) 上，创建一个新 issue。issue 包含以下信息：
+  - 你的 GitHub URL
+  - 3个 HTML 问题（最好和试听课内容相关）
+  - 3个 CSS 问题（最好和试听课内容相关）
+  - 3个 JavaScript 问题（最好和试听课内容相关）
 
 ## FAQ
 
