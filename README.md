@@ -8,6 +8,7 @@
 - [上课时间](#上课时间)
 - [课前作业](#课前作业)
 - [FAQ](#FAQ)
+- [参考代码](#参考代码)
 - [补充资料](#补充资料)
 
 # 免费试听课录播
@@ -131,6 +132,8 @@
 
 > Yes and no. 以“Project 3: 复刻 macOS“为例，每个同学都会尝试复刻 macOS。我会在课上演示基础功能的代码，并在写代码的过程中，穿插讲解相关知识点。每节课快结束的时候，我会给大家一些 ideas/inspirations，让大家课后自己写一些额外的 features，这部分额外的东西，大家是自由发挥的，所以每个人都不一样。额外 features 部分，我也会为大家提供指导和帮助。
 
+# 参考代码
+- [MVC Todo List(试听课/基础课1)](https://github.com/chuntonggao/todo-list)
 # 补充资料
 
 - [w3schools HTML/CSS/JavaScript Reference](https://www.w3schools.com)
