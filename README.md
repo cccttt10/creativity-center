@@ -1,12 +1,20 @@
-# 前端创意中心
+<h1 align="center">前端创意中心</h1>
 
+<p align="center">
+  <a href="https://cgao.info" rel="noopener" target="_blank"><img width="150" src="./asset/cgao-logo.png" alt="Chuntong Gao's logo"></a>
+
+- [免费试听课录播](#免费试听课录播)
 - [课程概要](#课程概要)
 - [上课时间](#上课时间)
-- [课前准备](#课前准备)
+- [课前作业](#课前作业)
 - [FAQ](#FAQ)
 - [补充资料](#补充资料)
 
-## 课程概要
+# 免费试听课录播
+- [Zoom 链接🔗](https://ubc.zoom.us/rec/share/lG-LBScxs8MUVViD9xi0vSURBVY8eSMqZoMVw9-OsZBODwXGsMtfBOX_gqssyE_r.B_W6K6I6L1mLk1An)
+- Access Passcode: brG&+K6?
+
+# 课程概要
 
 
 
@@ -14,7 +22,7 @@
 
   
 
-## 上课时间
+# 上课时间
 
 | 课次       | 温哥华时间      | 北京时间        | 内容简介                                                     |
 | ---------- | --------------- | --------------- | ------------------------------------------------------------ |
@@ -26,12 +34,12 @@
 | 进阶课3    | 9.19 6PM - 10PM | 9.20 9AM - 1PM  | - 浏览器高级特性: Canvas 和事件监听<br/>- Project 3.3: macOS 画板 |
 | 结课仪式   | 9.26 6PM - 8PM  | 9.27 9AM - 11AM | - 持续学习: 后端/算法/数据结构/前端其他框架<br/>- 如何把 project 运用到简历/面试中<br/>- 优秀作品展示 |
 
-## 课前准备
+# 课前作业
 
 - [免费试听课](#免费试听课) - due 8.1 6PM 温哥华时间
 - [基础课1](#基础课1) - due 8.15 6PM 温哥华时间
 
-### 免费试听课
+## 免费试听课
 
 - 请<ins>按照顺序</ins>完成课前准备，如有疑问，请尽量在<ins>课前</ins>问我。
 
@@ -77,7 +85,7 @@
 - <ins>Prettier - Code formatter</ins>
   - <ins>Prettier Now</ins>
 
-### 基础课1
+## 基础课1
 
 - 根据试听课录播，完成 MVC Todo List 的 HTML / CSS 部分。代码 push 到自己 fork 的 GitHub 仓库。
   - HTML代码：请理解每个 HTML tag 的作用，理解 attribute 的 作用，理解 class 和 id 的区别。
@@ -92,7 +100,7 @@
   - 3个 CSS 问题（最好和试听课内容相关）
   - 3个 JavaScript 问题（最好和试听课内容相关）
 
-## FAQ
+# FAQ
 
 - 课程有录播吗？
 
@@ -123,7 +131,7 @@
 
 > Yes and no. 以“Project 3: 复刻 macOS“为例，每个同学都会尝试复刻 macOS。我会在课上演示基础功能的代码，并在写代码的过程中，穿插讲解相关知识点。每节课快结束的时候，我会给大家一些 ideas/inspirations，让大家课后自己写一些额外的 features，这部分额外的东西，大家是自由发挥的，所以每个人都不一样。额外 features 部分，我也会为大家提供指导和帮助。
 
-## 补充资料
+# 补充资料
 
 - [w3schools HTML/CSS/JavaScript Reference](https://www.w3schools.com)
 - [MDN Web Doc](https://developer.mozilla.org/en-US/docs/Web)
