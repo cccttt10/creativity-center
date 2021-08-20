@@ -25,20 +25,22 @@
 
 # 上课时间
 
-| 课次       | 温哥华时间      | 北京时间        | 内容简介                                                     |
-| ---------- | --------------- | --------------- | ------------------------------------------------------------ |
-| 免费试听课 | 8.1 6PM - 10PM  | 8.2 9AM - 1PM   | - 软件工程是什么 <br/>- 为什么学前端 <br/>- 环境配置 <br/>- 3个 projects 效果预览 <br/>- Git 版本控制 <br/>- HTML/CSS 入门 <br/>- JavaScript/Typescript 入门 <br/>- Bonus project: MVC Todo List <br/>- 代码风格/最佳实践 |
-| 基础课1    | 8.15 6PM - 10PM | 8.16 9AM - 1PM  | - HTML/CSS/JavaScript 进阶 <br/>- 继续 MVC Todo List: 完成 JavaScript <br/>- Project 1: Adidas 商品展示页 <br/>- MVC Todo List: 加入 TypeScript |
-| 基础课2    | 8.22 6PM - 10PM | 8.23 9AM - 1PM  | - Project 2: 星球大战商品展示页<br/>- React 入门 <br/>- Bonus Project: React TypeScript Todo List<br/>- 工具链：包管理/编译/构建/持续集成<br/>- Project 3.0: 搭建环境+基础架构 |
-| 进阶课1    | 8.29 6PM - 10PM | 8.30 9AM - 1PM  | - React 进阶（包含 hooks）<br/>- Project 3.0: 公共组件+工具函数<br/>- Project 3.1: macOS 桌面+任务栏 <br/>- CSS 衍生语言: SCSS |
-| 进阶课2    | 9.12 6PM - 10PM | 9.13 9AM - 1PM  | - React 进阶（2020/2021 新特性）<br/>- Project 3.2: macOS 计算器 <br/>- 模块化编程 |
-| 进阶课3    | 9.19 6PM - 10PM | 9.20 9AM - 1PM  | - 浏览器高级特性: Canvas 和事件监听<br/>- Project 3.3: macOS 画板 |
-| 结课仪式   | 9.26 6PM - 8PM  | 9.27 9AM - 11AM | - 持续学习: 后端/算法/数据结构/前端其他框架<br/>- 如何把 project 运用到简历/面试中<br/>- 优秀作品展示 |
+| 课次        | 温哥华时间      | 北京时间        | 内容简介                                                     |
+| ----------- | --------------- | --------------- | ------------------------------------------------------------ |
+| 免费试听课  | 8.1 6PM - 10PM  | 8.2 9AM - 1PM   | - 软件工程是什么 <br/>- 为什么学前端 <br/>- 环境配置 <br/>- 3个 projects 效果预览 <br/>- Git 版本控制 <br/>- HTML/CSS 入门 <br/>- JavaScript/Typescript 入门 <br/>- Bonus project: MVC Todo List <br/>- 代码风格/最佳实践 |
+| 基础课1     | 8.15 6PM - 10PM | 8.16 9AM - 1PM  | - HTML/CSS/JavaScript 进阶 <br/>- 继续 MVC Todo List: 完成 JavaScript <br/>- Project 1: Adidas 商品展示页 <br/>- MVC Todo List: 加入 TypeScript |
+| office hour | 8.22 6PM - 8PM  | 8.23 9AM - 11AM | - 一对一答疑<br/>- 前两节课知识点巩固                        |
+| 基础课2     | 8.29 6PM - 10PM | 8.30 9AM - 1PM  | - Project 2: 星球大战商品展示页<br/>- React 入门 <br/>- Bonus Project: React TypeScript Todo List<br/>- 工具链：包管理/编译/构建/持续集成<br/>- Project 3.0: 搭建环境+基础架构 |
+| 进阶课1     | 9.12 6PM - 10PM | 9.13 9AM - 1PM  | - React 进阶（包含 hooks）<br/>- Project 3.0: 公共组件+工具函数<br/>- Project 3.1: macOS 桌面+任务栏 <br/>- CSS 衍生语言: SCSS |
+| 进阶课2     | 9.19 6PM - 10PM | 9.20 9AM - 1PM  | - React 进阶（2020/2021 新特性）<br/>- Project 3.2: macOS 计算器 <br/>- 模块化编程 |
+| 进阶课3     | 9.26 6PM - 10PM | 9.27 9AM - 1PM  | - 浏览器高级特性: Canvas 和事件监听<br/>- Project 3.3: macOS 画板 |
+| 结课仪式    | 10.3 6PM - 8PM  | 10.4 9AM - 11AM | - 持续学习: 后端/算法/数据结构/前端其他框架<br/>- 如何把 project 运用到简历/面试中<br/>- 优秀作品展示 |
 
 # 课前作业
 
 - [免费试听课](#免费试听课) - due 8.1 6PM 温哥华时间
 - [基础课1](#基础课1) - due 8.15 6PM 温哥华时间
+- [基础课2](#基础课2) - due 8.29 6PM 温哥华时间
 
 ## 免费试听课
 
@@ -100,6 +102,17 @@
   - 3个 HTML 问题（最好和试听课内容相关）
   - 3个 CSS 问题（最好和试听课内容相关）
   - 3个 JavaScript 问题（最好和试听课内容相关）
+
+## 基础课2
+
+- 完成 MVC Todo List，把代码 push 到自己的 GitHub 上，并以 GitHub Pages 的形式发布。
+- 完成 Adidas 商品展示页，把代码 push 到自己的 GitHub 上，并以 GitHub Pages 的形式发布。注意，我课上做这个项目的时候，是在 CodePen 上做的，所以不需要在 HTML 里引入 CSS 和 JavaScript，但是如果在本地开发的话，需要引入，而且需要完成写出 HTML 的 head tag。具体参考基础课1视频的最后部分。
+- 两个项目的代码，不一定要和我一摸一样。最好能做出一些和我不一样的东西，小到更换颜色和样式，大到增加新的功能，希望大家能发挥自己的创意，做一些不一样的东西。
+- 请在 [GitHub Issue](https://github.com/chuntonggao/creativity-center/issues) 上，创建一个新 issue。issue 包含以下信息：
+  - 你的 MVC Todo List 的 URL
+  - 你的 Adidas 商品展示页的 URL
+- 下载 [Node.js 和 npm](https://nodejs.org/en/download/)（选择 LTS 下面的 Windows Installer 或 macOS Installer）
+- 下载完 npm 之后，通过`npm install -g npx`命令下载 npx。如果该命令因权限问题执行失败，请输入`sudo npm install -g npx`，然后会让你输入计算机密码。
 
 # FAQ
 
