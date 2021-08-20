@@ -111,6 +111,7 @@
 - 请在 [GitHub Issue](https://github.com/chuntonggao/creativity-center/issues) 上，创建一个新 issue。issue 包含以下信息：
   - 你的 MVC Todo List 的 URL
   - 你的 Adidas 商品展示页的 URL
+  - 浏览[React 官方文档](https://reactjs.org/docs/hello-world.html)的 Main Concepts 部分。issue 里回答以下这些问题：React 和我们之前学的 HTML/CSS/JavaScript 是什么关系，有哪些异同？我们为什么要学 React？React 哪里比较难以理解？
 - 下载 [Node.js 和 npm](https://nodejs.org/en/download/)（选择 LTS 下面的 Windows Installer 或 macOS Installer）
 - 下载完 npm 之后，通过`npm install -g npx`命令下载 npx。如果该命令因权限问题执行失败，请输入`sudo npm install -g npx`，然后会让你输入计算机密码。
 
