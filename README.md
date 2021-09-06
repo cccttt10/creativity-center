@@ -41,6 +41,7 @@
 - [免费试听课](#免费试听课) - due 8.1 6PM 温哥华时间
 - [基础课1](#基础课1) - due 8.15 6PM 温哥华时间
 - [基础课2](#基础课2) - due 8.29 6PM 温哥华时间
+- [进阶课1](#进阶课1) - due 9.12 6PM 温哥华时间
 
 ## 免费试听课
 
@@ -114,6 +115,10 @@
   - 浏览[React 官方文档](https://reactjs.org/docs/hello-world.html)的 Main Concepts 部分。issue 里回答以下这些问题：React 和我们之前学的 HTML/CSS/JavaScript 是什么关系，有哪些异同？我们为什么要学 React？React 哪里比较难以理解？
 - 下载 [Node.js 和 npm](https://nodejs.org/en/download/)（选择 LTS 下面的 Windows Installer 或 macOS Installer）
 - 下载完 npm 之后，通过`npm install -g npx`命令下载 npx。如果该命令因权限问题执行失败，请输入`sudo npm install -g npx`，然后会让你输入计算机密码。
+
+## 进阶课1
+
+无额外作业，但请尽快观看基础课2的视频。尽量留出观看两遍的时间，知识点较多，一遍可能不够。有任何问题，请随时问我。进阶课1及以后的内容将会基于基础课2。
 
 # FAQ
 
