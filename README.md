@@ -30,8 +30,8 @@
 | 基础课2        | 8.29 6PM - 10PM  | 8.30 9AM - 1PM   | - Project 2: 星球大战商品展示页<br/>- React 入门 <br/>- Bonus Project: React TypeScript Todo List<br/>- 工具链：包管理/编译/构建/持续集成<br/>- Project 3.0: 搭建环境+基础架构                                        |
 | 进阶课1        | 9.12 6PM - 10PM  | 9.13 9AM - 1PM   | - React 进阶（包含 hooks）<br/>- Project 3.0: 公共组件+工具函数<br/>- Project 3.1: macOS 桌面+任务栏 <br/>- CSS 衍生语言: SCSS                                                                             |
 | 进阶课2        | 10.3 6PM - 10PM  | 10.4 9AM - 1PM   | - React 进阶（2020/2021 新特性）<br/>- Project 3.2: macOS 计算器 <br/>- 模块化编程                                                                                                                 |
-| 进阶课3        | 10.10 6PM - 10PM | 10.11 9AM - 1PM  | - 浏览器高级特性: Canvas 和事件监听<br/>- Project 3.3: macOS 画板                                                                                                                                 |
-| 结课仪式        | 10.17 6PM - 8PM  | 10.18 9AM - 11AM | - 持续学习: 后端/算法/数据结构/前端其他框架<br/>- 如何把 project 运用到简历/面试中<br/>- 优秀作品展示                                                                                                                  |
+| 进阶课3        | 10.17 6PM - 10PM | 10.18 9AM - 1PM  | - 浏览器高级特性: Canvas 和事件监听<br/>- Project 3.3: macOS 画板                                                                                                                                 |
+| 结课仪式        | 10.24 6PM - 8PM  | 10.25 9AM - 11AM | - 持续学习: 后端/算法/数据结构/前端其他框架<br/>- 如何把 project 运用到简历/面试中<br/>- 优秀作品展示                                                                                                                  |
 
 # 课前作业
 
